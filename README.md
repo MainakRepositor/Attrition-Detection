@@ -1,6 +1,6 @@
-# Credit Card Fraud Detection
+# Company Attrition Detection
 
-![home](https://user-images.githubusercontent.com/64016811/220282978-70bc0fe4-f28b-4f75-9148-0cd607a9f87e.png)
+![image](https://user-images.githubusercontent.com/64016811/224730052-de785647-9856-45e9-b672-9d19de54d8f6.png)
 
 
 ### Layout
