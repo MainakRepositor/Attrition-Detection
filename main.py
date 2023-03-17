@@ -11,7 +11,7 @@ from Tabs import home, data, predict, visualise
 
 # Configure the app
 st.set_page_config(
-    page_title = 'Credit Card Fraud Detection',
+    page_title = 'Attrition Detection',
     page_icon = 'random',
     layout = 'wide',
     initial_sidebar_state = 'auto'
